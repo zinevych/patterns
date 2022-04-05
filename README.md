@@ -1,1 +1,1 @@
-# patterns
+# Javascript patterns
